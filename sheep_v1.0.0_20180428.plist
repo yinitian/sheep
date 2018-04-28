@@ -10,7 +10,7 @@
     <string>iphoneos11.3</string>
     <dict>
         <key>appURL</key>
-        <string>https://github.com/yinitian/sheep/sheep_v1.0.0_20180428.ipa</string>
+        <string>https://github.com/yinitian/sheep/blob/master/sheep_v1.0.0_20180428.ipa</string>
     </dict>
     <key>LSApplicationQueriesSchemes</key>
     <array>
